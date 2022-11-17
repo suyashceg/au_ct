@@ -1,0 +1,11 @@
+<!DOCTYPE states
+[
+
+<!ELEMENT state(name,area,primary_crop,population,language)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT area (#PCDATA)>
+<!ELEMENT primary_crop (#PCDATA)>
+<!ELEMENT population (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+
+]>

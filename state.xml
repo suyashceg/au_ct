@@ -1,0 +1,40 @@
+<!DOCTYPE states SYSTEM "state.dtd">
+
+<states>
+    <state>
+        <name>Tamil Nadu</name>
+        <area>130058</area>
+        <primary_crop>rice</primary_crop>
+        <population>72147030</population>
+        <language>Tamil</language>
+    </state>
+    <state>
+        <name>Kerela</name>
+        <area>38863</area>
+        <primary_crop>rice</primary_crop>
+        <population>34630192</population>
+        <language>Malayalam</language>
+    </state>
+    <state>
+        <name>Jharkhand</name>
+        <area>79716</area>
+        <primary_crop>paddy</primary_crop>
+        <population>32988134</population>
+        <language>Angika</language>
+    </state>
+    <state>
+        <name>Bihar</name>
+        <area>94163</area>
+        <primary_crop>paddy</primary_crop>
+        <population>104099452</population>
+        <language>Bhojpuri</language>
+    </state>
+    <state>
+        <name>Maharashtra</name>
+        <area>307713</area>
+        <primary_crop>rice</primary_crop>
+        <population>112374333</population>
+        <language>Marathi</language>
+    </state>
+
+</states>    
