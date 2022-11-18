@@ -1,5 +1,5 @@
 <!DOCTYPE states SYSTEM "state.dtd">
-
+<?xml-stylesheet type="text/xsl" href="q1.xslt"?>
 <states>
     <state>
         <name>Tamil Nadu</name>
